@@ -1,9 +1,9 @@
 # Reusable React Native Components
 
-> Dont forget to import first
-> 
->example:-
->
+
+Download any component you want to use and put in seperate folder(recommended) or root and the import is your app.js file using 
+
+
 >import Card from './Card'
 
 ### 1. Card
