@@ -2,7 +2,8 @@
 
 > Dont forget to import first
 > 
->example>
+>example:-
+>
 >import Card from './Card'
 
 ### 1. Card
