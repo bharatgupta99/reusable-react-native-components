@@ -1,6 +1,9 @@
 # Reusable React Native Components
 
 > Dont forget to import first
+> 
+>example>
+>import Card from './Card'
 
 ### 1. Card
 
@@ -15,7 +18,7 @@
 ### 2. CardSection
 
 ```javascript
-//better if you use above mentioned card
+//better if you use above mentioned card as children of CardSection 
 <CardSection>
 	<Card />
 	<Card />
