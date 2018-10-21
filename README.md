@@ -1,6 +1,9 @@
 # Reusable React Native Components
 
-### Card
+## Dont forget to import first
+
+
+### 1. Card
 
 Use Like:- 
 
@@ -8,5 +11,10 @@ Use Like:-
 <Card>
 	<Text />
 	<Image />
+	.
+	.
+	.
+	.
+	//any arbitrary no. of children
 </Card>
 ```
