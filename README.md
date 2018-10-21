@@ -26,23 +26,29 @@
 ### 3. Button
 
 ```javascript
-<Button onPressed={/* function you want to preform */} text="/*button text */" />
+<Button 
+	onPressed={}  /* function you want to preform */
+	text="" /*button text */
+/>
 ```
 
 ### 4. Header
 
 ```javascript
-<Header headerText="/*text of header*/" />
+<Header 
+	headerText="" /*text of header*/
+/>
 ```
 
 ### 5. Input
 
 ```javascript
 <Input
-	label="/*label of input box*/"
-	secureTextEntry /*add this prop if its a password type*/
-	placeholder="/*placeholder text inside input box*/"
-	value="/*initial value inside input box*/"
-	onChangeText="/*function to perform when text changes*/"
+	label="" /*label of input box*/
+	secureTextEntry /*add this property if its a password type*/
+	placeholder="" /*placeholder text inside input box*/
+	value="" /*initial value inside input box*/
+	onChangeText="" /*function to perform when text changes*/
 />
+//last two properties are mainly used when you want to change value of state of a class-based component
 ```
