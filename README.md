@@ -4,9 +4,9 @@
 
 Use Like:- 
 
-'''javascript
+```javascript
 <Card>
 	<Text />
 	<Image />
 </Card>
-'''
+```
